@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Vaibhav-Portfolio/static/css/main.946697c3.css",
+    "main.js": "/Vaibhav-Portfolio/static/js/main.a8119752.js",
+    "static/media/profile-pic (2).png": "/Vaibhav-Portfolio/static/media/profile-pic (2).0aa8c7169ccfdbd7f642.png",
+    "static/media/dp.png": "/Vaibhav-Portfolio/static/media/dp.1f522e0eced25fce61ba.png",
+    "static/media/logo.png": "/Vaibhav-Portfolio/static/media/logo.5ecdca811feb4ed8a65f.png",
+    "static/media/kindpng_2158189.png": "/Vaibhav-Portfolio/static/media/kindpng_2158189.84e4b1cbbc313949056f.png",
+    "static/media/project-cover10.png": "/Vaibhav-Portfolio/static/media/project-cover10.aee0f771fbfc1e7b8fa8.png",
+    "static/media/1571638451phpyN6IpT.jpg": "/Vaibhav-Portfolio/static/media/1571638451phpyN6IpT.fa76aac0741e0e37f719.jpg",
+    "index.html": "/Vaibhav-Portfolio/index.html",
+    "main.946697c3.css.map": "/Vaibhav-Portfolio/static/css/main.946697c3.css.map",
+    "main.a8119752.js.map": "/Vaibhav-Portfolio/static/js/main.a8119752.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.946697c3.css",
+    "static/js/main.a8119752.js"
+  ]
+}
